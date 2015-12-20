@@ -1,8 +1,12 @@
 {
   "name": "ci-bones",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A project skeleton layout for continuous integration with Travis CI, coveralls.io and mocha",
-  "main": "app.js",
+  "bin": {
+    "ci-bones": "app.js"
+  },
+  "main" : "app.js",
+  "preferGlobal": "true",
   "repository": {
     "type": "git",
     "url": "https://github.com/michaeldegroot/ci-bones"
