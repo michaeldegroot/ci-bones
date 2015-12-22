@@ -1,6 +1,6 @@
 {
   "name": "ci-bones",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A project skeleton layout for continuous integration with Travis CI, coveralls.io and mocha",
   "directories": {
     "bin": "./bin"
