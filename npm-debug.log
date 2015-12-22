@@ -6,9 +6,9 @@
 3 info using node@v5.1.1
 4 verbose publish [ '.' ]
 5 verbose stack Error: Failed to parse json
-5 verbose stack Unexpected token 'i' at 33:6
-5 verbose stack     "inquirer": "^0.11.0",
-5 verbose stack      ^
+5 verbose stack Trailing comma in object at 33:3
+5 verbose stack   },
+5 verbose stack   ^
 5 verbose stack     at parseError (c:\users\catspc\appdata\roaming\npm\node_modules\npm\node_modules\read-package-json\read-json.js:379:11)
 5 verbose stack     at parseJson (c:\users\catspc\appdata\roaming\npm\node_modules\npm\node_modules\read-package-json\read-json.js:68:23)
 5 verbose stack     at c:\users\catspc\appdata\roaming\npm\node_modules\npm\node_modules\read-package-json\read-json.js:48:5
@@ -23,9 +23,9 @@
 11 error file C:\Users\CatsPC\Desktop\NPM\ci-bones\package.json
 12 error code EJSONPARSE
 13 error Failed to parse json
-13 error Unexpected token 'i' at 33:6
-13 error     "inquirer": "^0.11.0",
-13 error      ^
+13 error Trailing comma in object at 33:3
+13 error   },
+13 error   ^
 14 error File: C:\Users\CatsPC\Desktop\NPM\ci-bones\package.json
 15 error Failed to parse package.json data.
 15 error package.json must be actual JSON, not just JavaScript.
