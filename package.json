@@ -29,7 +29,7 @@
     "inquirer": "^1.0.2",
     "jsonfile": "^2.3.0",
     "mkdirp": "^0.5.1",
-    "shelljs": "^0.6.0"
+    "shelljs": "^0.7.0"
   },
   "scripts": {
     "test": "mocha",
