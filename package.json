@@ -1,9 +1,9 @@
 {
   "name": "ci-bones",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A project skeleton layout for continuous integration with Travis CI, coveralls.io and mocha",
-  "directories": {
-    "bin": "./bin"
+  "bin": {
+    "cibones": "bin/test-module.js"
   },
   "main": "./lib/app.js",
   "preferGlobal": "true",
