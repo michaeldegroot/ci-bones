@@ -40,7 +40,7 @@
     "assert": "^1.4.1",
     "assert-plus": "^0.2.0",
     "istanbul": "^0.4.4",
-    "mocha": "^2.5.3",
+    "mocha": "^3.0.1",
     "mocha-lcov-reporter": "^1.2.0"
   }
 }
