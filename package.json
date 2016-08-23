@@ -39,7 +39,7 @@
   "devDependencies": {
     "assert": "^1.4.1",
     "assert-plus": "^0.2.0",
-    "istanbul": "^0.4.4",
+    "istanbul": "^0.4.5",
     "mocha": "^3.0.2",
     "mocha-lcov-reporter": "^1.2.0"
   }
