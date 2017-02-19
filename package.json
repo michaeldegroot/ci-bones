@@ -24,7 +24,7 @@
   "author": "Michael de Groot <specamps@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.0.0",
+    "async": "^2.1.5",
     "commander": "^2.9.0",
     "inquirer": "^1.2.3",
     "jsonfile": "^2.3.1",
